@@ -14,6 +14,10 @@ Each group is an array of (station name, uic code, country code)
 
 2) run `./generate.sh`
 
+# Extra credit
+
+in `scratch.sql` i have some other fun query/ies
+
 # License
 
 Data, ODbL 1.0 - notably using excellent [Trainline data](https://github.com/trainline-eu/stations). Code BSD-2.
